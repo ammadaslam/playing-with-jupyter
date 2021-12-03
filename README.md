@@ -35,6 +35,7 @@ Install Docker in your system : 'https://www.docker.com/get-started'
 In your terminal run docker : '$ docker'
 
 First you have to run requirements.txt file for required libraries :
-"!pip install -r requirements.txt" 
+"!pip install -r requirements.txt" or using Docker image "sudo docker build -t assess -f Dockerfile ."
 
-Run Jupyter Docker '$ docker run -p 8888:8888 jupyter/minimal-notebook'
+Open jupyter Notebook
+Run Jupyter Docker '$ sudo docker run -it -p 8888:8888 assess'. Click any link of Docker server.
