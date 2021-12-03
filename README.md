@@ -1,5 +1,5 @@
 # Quantum computing and Classical computing 
-In this repository you will find tutorials and Examples/Algorithm related to Qunatom computing and Classical computing.I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems.
+In this repository you will find tutorials and Examples/Algorithm related to Qunatom computing and Classical computing.I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. We have discussed about two jupyter notebooks and these two jupyter notebook contains scikit-learn notebook and quantum notebook
 
 #### Approch:
 ##### Classical computers manipulate ones and zeroes to crunch through operations, but quantum computers use quantum bits or qubits. Just like classical computers, quantum computers use ones and zeros, but qubits have a third state called “superposition” that allows them to represent a one or a zero at the same time. Instead of analysing a one or a zero sequentially, superposition allows two qubits in superposition to represent four scenarios at the same time. Therefore, the time it takes to crunch a data set is significantly reduced.
