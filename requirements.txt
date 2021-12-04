@@ -1,9 +1,0 @@
-qiskit
-pylatexenc
-mlxtend
-matplotlib
-numpy
-sklearn
-seaborn
-pandas
-missingno
